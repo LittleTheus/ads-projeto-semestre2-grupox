@@ -1,6 +1,6 @@
 # Padaria Santo Antônio – Controle Financeiro e Conferência de Caixa
 
-Projeto integrador da disciplina **Tópicos de Big Data em Python** (ADS, 2º período, Estácio Juiz de Fora, 2026/2), desenvolvido como atividade extensionista junto à **Padaria Santo Antônio**, de Goianá/MG, que funciona desde 1920 e tem o maior forno a lenha do Brasil.
+Projeto integrador da disciplina **Tópicos de Big Data em Python** (ADS, 4º período, Estácio Juiz de Fora, 2026/2), desenvolvido como atividade extensionista junto à **Padaria Santo Antônio**, de Goianá/MG, que funciona desde 1920 e tem o maior forno a lenha do Brasil.
 
 ## Problema
 
